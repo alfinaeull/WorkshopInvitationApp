@@ -1,2 +1,2 @@
 # firebase-workshop-invitation
-text
+created an invitation to a workshop using firebase and flutter
