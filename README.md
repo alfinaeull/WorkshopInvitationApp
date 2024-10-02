@@ -1,2 +1,2 @@
 # firebase-workshop-invitation
-created an invitation to a workshop using firebase and flutter
+In this project, I created an web app invitation to a workshop using Firebase for backend and Flutter for frontend.
